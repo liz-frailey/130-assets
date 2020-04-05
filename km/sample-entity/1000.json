@@ -1,0 +1,27 @@
+{
+  "$id": "1000",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "restaurant",
+  "content": {
+    "yext.address": {
+      "city": "McLean",
+      "countryCode": "US",
+      "line1": "1323 Kirby Rd",
+      "postalCode": "22101",
+      "region": "VA"
+    },
+    "yext.addressHidden": false,
+    "yext.attire": "CASUAL",
+    "yext.description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in Dallas,TX today!",
+    "yext.featuredMessage": {
+      "description": "Order online today",
+      "url": "http://www.turtleheadtacos.com"
+    },
+    "yext.name": "Turtlehead Tacos",
+    "yext.priceRange": "ONE",
+    "yext.timezone": "America/New_York",
+    "yext.websiteUrl": {
+      "preferDisplayUrl": false
+    }
+  }
+}
